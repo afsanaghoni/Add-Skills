@@ -35,6 +35,13 @@ footer .fab {
     margin: 5px;
 }
 
+#btn-bg-color {
+    background-color: #fff;
+    color: #1da1f2;
+    border: 0;
+    font-weight: bold;
+}
+
 .fa-youtube {
     color: #c4302b;
 }
